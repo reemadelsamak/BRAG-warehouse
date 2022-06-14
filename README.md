@@ -5,7 +5,7 @@ BRAG’s warehouse management system (WMS) controls key operations with its ware
 The WMS database should store data that is needed to support the warehouse operations of receiving items from vendors to replenish on-hand inventory, the stocking of items, and the picking of items to fulfil customer orders.
 Integration Between MySQL Database, XLSX, and XML.
 
-### Queries and reports– you can add more:
+### Queries and reports you can generate:
 - Items ordered by a customer
 - Customers who ordered a particular item
 - Orders that were shipped late
