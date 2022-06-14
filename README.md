@@ -16,10 +16,10 @@ Queries and reports– you can add more
 • Items in inventory during a particular time period
 
 ## Context Design
-![image](https://user-images.githubusercontent.com/72516521/173606919-1e4911b1-f1ce-4f4d-9abf-a299fde8d859.png)
+![context](https://user-images.githubusercontent.com/72516521/173611907-a41e55b5-6cc6-469d-adb9-997c17c7b7e0.png)
 
 ## Fully-Attributed Design (3NF)
-![image](https://user-images.githubusercontent.com/72516521/173607200-6b3fa950-05ea-4346-b3cd-cf5ea5ad156c.png)
+![nf](https://user-images.githubusercontent.com/72516521/173612012-7000fed5-a352-4e41-97a7-e7429c6a5cfc.png)
 
 ## Demo
 ![image](https://user-images.githubusercontent.com/72516521/173609909-1d180ef4-9271-4ab0-92ab-64c49245cd4e.png)
