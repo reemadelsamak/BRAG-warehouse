@@ -1,0 +1,380 @@
+<DATA>
+
+	<ROW>
+		<Case_ID>284</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>292</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>297</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>305</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>316</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>325</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>331</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>337</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>339</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>341</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>344</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>360</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>391</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>394</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>397</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>414</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>424</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>12</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>426</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>15</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>434</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>15</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>437</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>15</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>439</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>15</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>452</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>15</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>457</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>15</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>466</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>15</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>467</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>15</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>470</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>15</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>489</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>15</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>511</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>15</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>514</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>15</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>519</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>15</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>535</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>538</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>555</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>556</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>572</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>588</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>596</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>601</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>608</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>640</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>641</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>648</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>660</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>700</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>703</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>708</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>711</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>725</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>738</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>772</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>788</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>798</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>811</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>813</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>863</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>884</Case_ID>
+		<Item_Quantity>5</Item_Quantity>
+		<Case_Weight>20</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>909</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>16</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>915</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>16</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>935</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>16</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>937</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>16</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>963</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>16</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>977</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>16</Case_Weight>
+	</ROW>
+
+	<ROW>
+		<Case_ID>992</Case_ID>
+		<Item_Quantity>4</Item_Quantity>
+		<Case_Weight>16</Case_Weight>
+	</ROW>
+</DATA>

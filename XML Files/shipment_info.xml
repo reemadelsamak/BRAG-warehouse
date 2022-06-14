@@ -1,0 +1,330 @@
+<DATA>
+
+	<ROW>
+		<Shipment_Num>S11072702</Shipment_Num>
+		<Case_ID>284</Case_ID>
+		<Item_ID>71</Item_ID>
+		<Pallet_ID>4</Pallet_ID>
+		<Item_Qty>20</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S11072702</Shipment_Num>
+		<Case_ID>292</Case_ID>
+		<Item_ID>71</Item_ID>
+		<Pallet_ID>4</Pallet_ID>
+		<Item_Qty>20</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S11072702</Shipment_Num>
+		<Case_ID>297</Case_ID>
+		<Item_ID>841188</Item_ID>
+		<Pallet_ID>4</Pallet_ID>
+		<Item_Qty>15</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S11072702</Shipment_Num>
+		<Case_ID>305</Case_ID>
+		<Item_ID>841188</Item_ID>
+		<Pallet_ID>4</Pallet_ID>
+		<Item_Qty>15</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S11072702</Shipment_Num>
+		<Case_ID>711</Case_ID>
+		<Item_ID>PL638-JD</Item_ID>
+		<Pallet_ID>8</Pallet_ID>
+		<Item_Qty>4</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S11072702</Shipment_Num>
+		<Case_ID>725</Case_ID>
+		<Item_ID>PL638-JD</Item_ID>
+		<Pallet_ID>8</Pallet_ID>
+		<Item_Qty>4</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S11072702</Shipment_Num>
+		<Case_ID>738</Case_ID>
+		<Item_ID>PL638-JD</Item_ID>
+		<Pallet_ID>8</Pallet_ID>
+		<Item_Qty>4</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S11072702</Shipment_Num>
+		<Case_ID>772</Case_ID>
+		<Item_ID>PL530-JD</Item_ID>
+		<Pallet_ID>8</Pallet_ID>
+		<Item_Qty>4</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S11072702</Shipment_Num>
+		<Case_ID>788</Case_ID>
+		<Item_ID>PL530-JD</Item_ID>
+		<Pallet_ID>8</Pallet_ID>
+		<Item_Qty>4</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S11190738</Shipment_Num>
+		<Case_ID>331</Case_ID>
+		<Item_ID>25</Item_ID>
+		<Pallet_ID>51</Pallet_ID>
+		<Item_Qty>16</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S11190738</Shipment_Num>
+		<Case_ID>337</Case_ID>
+		<Item_ID>25</Item_ID>
+		<Pallet_ID>51</Pallet_ID>
+		<Item_Qty>14</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S11190738</Shipment_Num>
+		<Case_ID>339</Case_ID>
+		<Item_ID>25</Item_ID>
+		<Pallet_ID>51</Pallet_ID>
+		<Item_Qty>15</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S11190738</Shipment_Num>
+		<Case_ID>341</Case_ID>
+		<Item_ID>25</Item_ID>
+		<Pallet_ID>51</Pallet_ID>
+		<Item_Qty>15</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S13203212</Shipment_Num>
+		<Case_ID>798</Case_ID>
+		<Item_ID>TH4H690</Item_ID>
+		<Pallet_ID>97</Pallet_ID>
+		<Item_Qty>1</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S13203212</Shipment_Num>
+		<Case_ID>811</Case_ID>
+		<Item_ID>121332-0036</Item_ID>
+		<Pallet_ID>97</Pallet_ID>
+		<Item_Qty>20</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S13203212</Shipment_Num>
+		<Case_ID>813</Case_ID>
+		<Item_ID>121332-0036</Item_ID>
+		<Pallet_ID>97</Pallet_ID>
+		<Item_Qty>20</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S13203212</Shipment_Num>
+		<Case_ID>863</Case_ID>
+		<Item_ID>121332-0036</Item_ID>
+		<Pallet_ID>97</Pallet_ID>
+		<Item_Qty>20</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S13203212</Shipment_Num>
+		<Case_ID>884</Case_ID>
+		<Item_ID>25</Item_ID>
+		<Pallet_ID>97</Pallet_ID>
+		<Item_Qty>12</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14460672</Shipment_Num>
+		<Case_ID>316</Case_ID>
+		<Item_ID>121332-0036</Item_ID>
+		<Pallet_ID>151</Pallet_ID>
+		<Item_Qty>15</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14460672</Shipment_Num>
+		<Case_ID>325</Case_ID>
+		<Item_ID>121332-0036</Item_ID>
+		<Pallet_ID>151</Pallet_ID>
+		<Item_Qty>15</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14460672</Shipment_Num>
+		<Case_ID>909</Case_ID>
+		<Item_ID>143978</Item_ID>
+		<Pallet_ID>101</Pallet_ID>
+		<Item_Qty>6</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14460672</Shipment_Num>
+		<Case_ID>915</Case_ID>
+		<Item_ID>143969</Item_ID>
+		<Pallet_ID>101</Pallet_ID>
+		<Item_Qty>6</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14460672</Shipment_Num>
+		<Case_ID>935</Case_ID>
+		<Item_ID>71</Item_ID>
+		<Pallet_ID>101</Pallet_ID>
+		<Item_Qty>15</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14460672</Shipment_Num>
+		<Case_ID>937</Case_ID>
+		<Item_ID>71</Item_ID>
+		<Pallet_ID>101</Pallet_ID>
+		<Item_Qty>15</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14460672</Shipment_Num>
+		<Case_ID>963</Case_ID>
+		<Item_ID>71</Item_ID>
+		<Pallet_ID>101</Pallet_ID>
+		<Item_Qty>15</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14460672</Shipment_Num>
+		<Case_ID>977</Case_ID>
+		<Item_ID>121332-0036</Item_ID>
+		<Pallet_ID>151</Pallet_ID>
+		<Item_Qty>15</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14460672</Shipment_Num>
+		<Case_ID>992</Case_ID>
+		<Item_ID>121332-0036</Item_ID>
+		<Pallet_ID>151</Pallet_ID>
+		<Item_Qty>15</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14503246</Shipment_Num>
+		<Case_ID>344</Case_ID>
+		<Item_ID>PL530-JD</Item_ID>
+		<Pallet_ID>202</Pallet_ID>
+		<Item_Qty>4</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14503246</Shipment_Num>
+		<Case_ID>360</Case_ID>
+		<Item_ID>PL530-JD</Item_ID>
+		<Pallet_ID>202</Pallet_ID>
+		<Item_Qty>4</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14503246</Shipment_Num>
+		<Case_ID>391</Case_ID>
+		<Item_ID>TH4H690</Item_ID>
+		<Pallet_ID>202</Pallet_ID>
+		<Item_Qty>1</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14503246</Shipment_Num>
+		<Case_ID>394</Case_ID>
+		<Item_ID>TH4H690</Item_ID>
+		<Pallet_ID>202</Pallet_ID>
+		<Item_Qty>1</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14503246</Shipment_Num>
+		<Case_ID>397</Case_ID>
+		<Item_ID>699933</Item_ID>
+		<Pallet_ID>262</Pallet_ID>
+		<Item_Qty>5</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14503246</Shipment_Num>
+		<Case_ID>414</Case_ID>
+		<Item_ID>699933</Item_ID>
+		<Pallet_ID>262</Pallet_ID>
+		<Item_Qty>5</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14503246</Shipment_Num>
+		<Case_ID>424</Case_ID>
+		<Item_ID>18</Item_ID>
+		<Pallet_ID>262</Pallet_ID>
+		<Item_Qty>6</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14503246</Shipment_Num>
+		<Case_ID>426</Case_ID>
+		<Item_ID>18</Item_ID>
+		<Pallet_ID>262</Pallet_ID>
+		<Item_Qty>6</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14503246</Shipment_Num>
+		<Case_ID>434</Case_ID>
+		<Item_ID>PP24006</Item_ID>
+		<Pallet_ID>262</Pallet_ID>
+		<Item_Qty>3</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14503246</Shipment_Num>
+		<Case_ID>437</Case_ID>
+		<Item_ID>PP24007</Item_ID>
+		<Pallet_ID>283</Pallet_ID>
+		<Item_Qty>2</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14503246</Shipment_Num>
+		<Case_ID>439</Case_ID>
+		<Item_ID>PP24007</Item_ID>
+		<Pallet_ID>283</Pallet_ID>
+		<Item_Qty>2</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14503246</Shipment_Num>
+		<Case_ID>452</Case_ID>
+		<Item_ID>PP24007</Item_ID>
+		<Pallet_ID>283</Pallet_ID>
+		<Item_Qty>2</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14503246</Shipment_Num>
+		<Case_ID>457</Case_ID>
+		<Item_ID>38</Item_ID>
+		<Pallet_ID>283</Pallet_ID>
+		<Item_Qty>10</Item_Qty>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14503246</Shipment_Num>
+		<Case_ID>466</Case_ID>
+		<Item_ID>38</Item_ID>
+		<Pallet_ID>283</Pallet_ID>
+		<Item_Qty>10</Item_Qty>
+	</ROW>
+</DATA>

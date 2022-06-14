@@ -1,0 +1,83 @@
+<DATA>
+
+	<ROW>
+		<Order_Num>16639375</Order_Num>
+		<Customer_Num>C1002</Customer_Num>
+		<Order_Date>2019-11-19</Order_Date>
+		<Order_ReqShipDate>2019-11-19</Order_ReqShipDate>
+		<Order_ActualShipDate>2019-11-19</Order_ActualShipDate>
+		<Order_Carrier>*** Customer Pickup ***</Order_Carrier>
+	</ROW>
+
+	<ROW>
+		<Order_Num>16642826</Order_Num>
+		<Customer_Num>C20</Customer_Num>
+		<Order_Date>2019-10-12</Order_Date>
+		<Order_ReqShipDate>2019-10-12</Order_ReqShipDate>
+		<Order_ActualShipDate>2019-10-13</Order_ActualShipDate>
+		<Order_Carrier>DHL Ground</Order_Carrier>
+	</ROW>
+
+	<ROW>
+		<Order_Num>16644074</Order_Num>
+		<Customer_Num>C20</Customer_Num>
+		<Order_Date>2019-10-25</Order_Date>
+		<Order_ReqShipDate>2019-10-25</Order_ReqShipDate>
+		<Order_ActualShipDate>2019-10-25</Order_ActualShipDate>
+		<Order_Carrier>UPS Ground</Order_Carrier>
+	</ROW>
+
+	<ROW>
+		<Order_Num>16645282</Order_Num>
+		<Customer_Num>C35</Customer_Num>
+		<Order_Date>2019-11-07</Order_Date>
+		<Order_ReqShipDate>2019-11-07</Order_ReqShipDate>
+		<Order_ActualShipDate>2019-11-20</Order_ActualShipDate>
+		<Order_Carrier>DHL Ground</Order_Carrier>
+	</ROW>
+
+	<ROW>
+		<Order_Num>16656274</Order_Num>
+		<Customer_Num>C493</Customer_Num>
+		<Order_Date>2019-11-08</Order_Date>
+		<Order_ReqShipDate>2019-11-08</Order_ReqShipDate>
+		<Order_ActualShipDate>2019-11-08</Order_ActualShipDate>
+		<Order_Carrier>FedEX FFL</Order_Carrier>
+	</ROW>
+
+	<ROW>
+		<Order_Num>16658443</Order_Num>
+		<Customer_Num>C17</Customer_Num>
+		<Order_Date>2019-10-09</Order_Date>
+		<Order_ReqShipDate>2019-10-09</Order_ReqShipDate>
+		<Order_ActualShipDate>2019-10-09</Order_ActualShipDate>
+		<Order_Carrier>FedEX FFL</Order_Carrier>
+	</ROW>
+
+	<ROW>
+		<Order_Num>16660133</Order_Num>
+		<Customer_Num>C493</Customer_Num>
+		<Order_Date>2019-11-13</Order_Date>
+		<Order_ReqShipDate>2019-11-13</Order_ReqShipDate>
+		<Order_ActualShipDate>2019-11-13</Order_ActualShipDate>
+		<Order_Carrier>UPS Ground</Order_Carrier>
+	</ROW>
+
+	<ROW>
+		<Order_Num>16662968</Order_Num>
+		<Customer_Num>C935</Customer_Num>
+		<Order_Date>2019-11-19</Order_Date>
+		<Order_ReqShipDate>2019-11-19</Order_ReqShipDate>
+		<Order_ActualShipDate>2019-11-19</Order_ActualShipDate>
+		<Order_Carrier>UPS Ground</Order_Carrier>
+	</ROW>
+
+	<ROW>
+		<Order_Num>16663993</Order_Num>
+		<Customer_Num>C866</Customer_Num>
+		<Order_Date>2019-11-17</Order_Date>
+		<Order_ReqShipDate>2019-11-17</Order_ReqShipDate>
+		<Order_ActualShipDate>2019-11-17</Order_ActualShipDate>
+		<Order_Carrier>DHL Ground</Order_Carrier>
+	</ROW>
+</DATA>

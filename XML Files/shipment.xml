@@ -1,0 +1,42 @@
+<DATA>
+
+	<ROW>
+		<Shipment_Num>S11072702</Shipment_Num>
+		<Vendor_Num>V1107</Vendor_Num>
+		<Shipment_ReceiptDate>2019-10-29</Shipment_ReceiptDate>
+		<Shipment_NumPallets>2</Shipment_NumPallets>
+		<PurchaseOrder_Num>622702</PurchaseOrder_Num>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S11190738</Shipment_Num>
+		<Vendor_Num>V1119</Vendor_Num>
+		<Shipment_ReceiptDate>2019-11-15</Shipment_ReceiptDate>
+		<Shipment_NumPallets>1</Shipment_NumPallets>
+		<PurchaseOrder_Num>623212</PurchaseOrder_Num>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S13203212</Shipment_Num>
+		<Vendor_Num>V1320</Vendor_Num>
+		<Shipment_ReceiptDate>2019-11-04</Shipment_ReceiptDate>
+		<Shipment_NumPallets>1</Shipment_NumPallets>
+		<PurchaseOrder_Num>1610672</PurchaseOrder_Num>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14460672</Shipment_Num>
+		<Vendor_Num>V1446</Vendor_Num>
+		<Shipment_ReceiptDate>2019-11-11</Shipment_ReceiptDate>
+		<Shipment_NumPallets>2</Shipment_NumPallets>
+		<PurchaseOrder_Num>1610738</PurchaseOrder_Num>
+	</ROW>
+
+	<ROW>
+		<Shipment_Num>S14503246</Shipment_Num>
+		<Vendor_Num>V1450</Vendor_Num>
+		<Shipment_ReceiptDate>2019-11-18</Shipment_ReceiptDate>
+		<Shipment_NumPallets>3</Shipment_NumPallets>
+		<PurchaseOrder_Num>623246</PurchaseOrder_Num>
+	</ROW>
+</DATA>

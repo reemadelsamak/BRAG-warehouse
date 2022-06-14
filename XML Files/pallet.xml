@@ -1,0 +1,86 @@
+<DATA>
+
+	<ROW>
+		<Pallet_ID>101</Pallet_ID>
+		<Pallet_Weight>38</Pallet_Weight>
+		<Pallet_Volume>14</Pallet_Volume>
+	</ROW>
+
+	<ROW>
+		<Pallet_ID>14</Pallet_ID>
+		<Pallet_Weight>40</Pallet_Weight>
+		<Pallet_Volume>15</Pallet_Volume>
+	</ROW>
+
+	<ROW>
+		<Pallet_ID>151</Pallet_ID>
+		<Pallet_Weight>35</Pallet_Weight>
+		<Pallet_Volume>12</Pallet_Volume>
+	</ROW>
+
+	<ROW>
+		<Pallet_ID>178</Pallet_ID>
+		<Pallet_Weight>40</Pallet_Weight>
+		<Pallet_Volume>15</Pallet_Volume>
+	</ROW>
+
+	<ROW>
+		<Pallet_ID>202</Pallet_ID>
+		<Pallet_Weight>36</Pallet_Weight>
+		<Pallet_Volume>13</Pallet_Volume>
+	</ROW>
+
+	<ROW>
+		<Pallet_ID>262</Pallet_ID>
+		<Pallet_Weight>38</Pallet_Weight>
+		<Pallet_Volume>14</Pallet_Volume>
+	</ROW>
+
+	<ROW>
+		<Pallet_ID>283</Pallet_ID>
+		<Pallet_Weight>42</Pallet_Weight>
+		<Pallet_Volume>16</Pallet_Volume>
+	</ROW>
+
+	<ROW>
+		<Pallet_ID>4</Pallet_ID>
+		<Pallet_Weight>40</Pallet_Weight>
+		<Pallet_Volume>15</Pallet_Volume>
+	</ROW>
+
+	<ROW>
+		<Pallet_ID>42</Pallet_ID>
+		<Pallet_Weight>36</Pallet_Weight>
+		<Pallet_Volume>13</Pallet_Volume>
+	</ROW>
+
+	<ROW>
+		<Pallet_ID>51</Pallet_ID>
+		<Pallet_Weight>42</Pallet_Weight>
+		<Pallet_Volume>16</Pallet_Volume>
+	</ROW>
+
+	<ROW>
+		<Pallet_ID>70</Pallet_ID>
+		<Pallet_Weight>40</Pallet_Weight>
+		<Pallet_Volume>15</Pallet_Volume>
+	</ROW>
+
+	<ROW>
+		<Pallet_ID>8</Pallet_ID>
+		<Pallet_Weight>35</Pallet_Weight>
+		<Pallet_Volume>12</Pallet_Volume>
+	</ROW>
+
+	<ROW>
+		<Pallet_ID>97</Pallet_ID>
+		<Pallet_Weight>42</Pallet_Weight>
+		<Pallet_Volume>16</Pallet_Volume>
+	</ROW>
+
+	<ROW>
+		<Pallet_ID>98</Pallet_ID>
+		<Pallet_Weight>35</Pallet_Weight>
+		<Pallet_Volume>12</Pallet_Volume>
+	</ROW>
+</DATA>

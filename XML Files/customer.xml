@@ -1,0 +1,122 @@
+<DATA>
+
+	<ROW>
+		<Customer_Num>C1002</Customer_Num>
+		<Customer_FirstName>John</Customer_FirstName>
+		<Customer_LastName>Grant</Customer_LastName>
+		<Customer_Address>225 WEST STATION SQUARE DRIVE</Customer_Address>
+		<Customer_City>PITTSBURGH</Customer_City>
+		<Customer_State>PA</Customer_State>
+		<Customer_ZIP>15219</Customer_ZIP>
+		<Customer_Phone>7817993378</Customer_Phone>
+		<Customer_Email>John@grant.com</Customer_Email>
+	</ROW>
+
+	<ROW>
+		<Customer_Num>C17</Customer_Num>
+		<Customer_FirstName>Jane</Customer_FirstName>
+		<Customer_LastName>Nicks</Customer_LastName>
+		<Customer_Address>2200 PENNSYLVANIA AVENUE NW</Customer_Address>
+		<Customer_City>WASHINGTON</Customer_City>
+		<Customer_State>DC</Customer_State>
+		<Customer_ZIP>20037</Customer_ZIP>
+		<Customer_Phone>5694423796</Customer_Phone>
+		<Customer_Email>Jane@nicks.com</Customer_Email>
+	</ROW>
+
+	<ROW>
+		<Customer_Num>C20</Customer_Num>
+		<Customer_FirstName>Bob</Customer_FirstName>
+		<Customer_LastName>Felton</Customer_LastName>
+		<Customer_Address>100 CRYSTAL A DRIVE</Customer_Address>
+		<Customer_City>HERSHEY</Customer_City>
+		<Customer_State>PA</Customer_State>
+		<Customer_ZIP>17033</Customer_ZIP>
+		<Customer_Phone>2482604235</Customer_Phone>
+		<Customer_Email>Bob@Felton.com</Customer_Email>
+	</ROW>
+
+	<ROW>
+		<Customer_Num>C35</Customer_Num>
+		<Customer_FirstName>Jill</Customer_FirstName>
+		<Customer_LastName>Young</Customer_LastName>
+		<Customer_Address>500 FRANK W BURR BOULEVARD</Customer_Address>
+		<Customer_City>TEANECK</Customer_City>
+		<Customer_State>NJ</Customer_State>
+		<Customer_ZIP>7666</Customer_ZIP>
+		<Customer_Phone>9035970279</Customer_Phone>
+		<Customer_Email>Jill@Young.com</Customer_Email>
+	</ROW>
+
+	<ROW>
+		<Customer_Num>C493</Customer_Num>
+		<Customer_FirstName>Russ</Customer_FirstName>
+		<Customer_LastName>Jackson</Customer_LastName>
+		<Customer_Address>500 WEST MADISON STREET</Customer_Address>
+		<Customer_City>CHICAGO</Customer_City>
+		<Customer_State>IL</Customer_State>
+		<Customer_ZIP>60661</Customer_ZIP>
+		<Customer_Phone>8788658690</Customer_Phone>
+		<Customer_Email>Russ@Young.com</Customer_Email>
+	</ROW>
+
+	<ROW>
+		<Customer_Num>C856</Customer_Num>
+		<Customer_FirstName>Chris</Customer_FirstName>
+		<Customer_LastName>George</Customer_LastName>
+		<Customer_Address>7500 DALLAS PARKWAY</Customer_Address>
+		<Customer_City>PLANO</Customer_City>
+		<Customer_State>TX</Customer_State>
+		<Customer_ZIP>75024</Customer_ZIP>
+		<Customer_Phone>9778250256</Customer_Phone>
+		<Customer_Email>Chris@George.com</Customer_Email>
+	</ROW>
+
+	<ROW>
+		<Customer_Num>C866</Customer_Num>
+		<Customer_FirstName>Sam</Customer_FirstName>
+		<Customer_LastName>Stevenson</Customer_LastName>
+		<Customer_Address>250 PARKCENTER BOULEVARD</Customer_Address>
+		<Customer_City>BOISE</Customer_City>
+		<Customer_State>ID</Customer_State>
+		<Customer_ZIP>83706</Customer_ZIP>
+		<Customer_Phone>3593635559</Customer_Phone>
+		<Customer_Email>Sam@Stevenson.com</Customer_Email>
+	</ROW>
+
+	<ROW>
+		<Customer_Num>C885</Customer_Num>
+		<Customer_FirstName>Jane</Customer_FirstName>
+		<Customer_LastName>Newell</Customer_LastName>
+		<Customer_Address>3600 LAS VEGAS BOULEVARD SOUTH</Customer_Address>
+		<Customer_City>LAS VEGAS</Customer_City>
+		<Customer_State>NV</Customer_State>
+		<Customer_ZIP>89109</Customer_ZIP>
+		<Customer_Phone>2924803403</Customer_Phone>
+		<Customer_Email>Jane@Newell.com</Customer_Email>
+	</ROW>
+
+	<ROW>
+		<Customer_Num>C935</Customer_Num>
+		<Customer_FirstName>Rick</Customer_FirstName>
+		<Customer_LastName>Mason</Customer_LastName>
+		<Customer_Address>1 VALERO WAY</Customer_Address>
+		<Customer_City>SAN ANTONIO</Customer_City>
+		<Customer_State>TX</Customer_State>
+		<Customer_ZIP>78249</Customer_ZIP>
+		<Customer_Phone>6962953646</Customer_Phone>
+		<Customer_Email>Rick@Mason.com</Customer_Email>
+	</ROW>
+
+	<ROW>
+		<Customer_Num>C959</Customer_Num>
+		<Customer_FirstName>Lilly</Customer_FirstName>
+		<Customer_LastName>Walters</Customer_LastName>
+		<Customer_Address>1025 WEST NASA BOULEVARD</Customer_Address>
+		<Customer_City>MELBOURNE</Customer_City>
+		<Customer_State>FL</Customer_State>
+		<Customer_ZIP>32919</Customer_ZIP>
+		<Customer_Phone>9132816703</Customer_Phone>
+		<Customer_Email>Lilly@Watson.com</Customer_Email>
+	</ROW>
+</DATA>

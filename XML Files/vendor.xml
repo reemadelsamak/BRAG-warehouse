@@ -1,0 +1,112 @@
+<DATA>
+
+	<ROW>
+		<Vendor_Num>V1107</Vendor_Num>
+		<Vendor_Name>CALATLANTIC GROUP</Vendor_Name>
+		<Vendor_Address>1100 WILSON BOULEVARD</Vendor_Address>
+		<Vendor_Phone>8433481214</Vendor_Phone>
+		<Vendor_Email>CUKP@CALA.com</Vendor_Email>
+		<Vendor_City>ARLINGTON</Vendor_City>
+		<Vendor_State>VA</Vendor_State>
+		<Vendor_ZIP>22209</Vendor_ZIP>
+	</ROW>
+
+	<ROW>
+		<Vendor_Num>V1119</Vendor_Num>
+		<Vendor_Name>UNION SUPPLIERS</Vendor_Name>
+		<Vendor_Address>1400 DOUGLAS STREET</Vendor_Address>
+		<Vendor_Phone>7803978503</Vendor_Phone>
+		<Vendor_Email>VGBP@UNIO.com</Vendor_Email>
+		<Vendor_City>OMAHA</Vendor_City>
+		<Vendor_State>NE</Vendor_State>
+		<Vendor_ZIP>68179</Vendor_ZIP>
+	</ROW>
+
+	<ROW>
+		<Vendor_Num>V1320</Vendor_Num>
+		<Vendor_Name>BUILDERS FIRSTSOURCE</Vendor_Name>
+		<Vendor_Address>2001 BRYAN STREET</Vendor_Address>
+		<Vendor_Phone>2857794738</Vendor_Phone>
+		<Vendor_Email>RUXH@BUIL.com</Vendor_Email>
+		<Vendor_City>DALLAS</Vendor_City>
+		<Vendor_State>TX</Vendor_State>
+		<Vendor_ZIP>75201</Vendor_ZIP>
+	</ROW>
+
+	<ROW>
+		<Vendor_Num>V1321</Vendor_Num>
+		<Vendor_Name>KIMBERLY-KENT</Vendor_Name>
+		<Vendor_Address>351 PHELPS DRIVE</Vendor_Address>
+		<Vendor_Phone>3987045942</Vendor_Phone>
+		<Vendor_Email>LWST@KIMB.com</Vendor_Email>
+		<Vendor_City>IRVING</Vendor_City>
+		<Vendor_State>TX</Vendor_State>
+		<Vendor_ZIP>75038</Vendor_ZIP>
+	</ROW>
+
+	<ROW>
+		<Vendor_Num>V1443</Vendor_Num>
+		<Vendor_Name>NEWMONT WEARS</Vendor_Name>
+		<Vendor_Address>6363 SOUTH FIDDLERS GREEN CIRCLE</Vendor_Address>
+		<Vendor_Phone>9773425160</Vendor_Phone>
+		<Vendor_Email>YYZH@NEWM.com</Vendor_Email>
+		<Vendor_City>GREENWOOD VILLAGE</Vendor_City>
+		<Vendor_State>CO</Vendor_State>
+		<Vendor_ZIP>80111</Vendor_ZIP>
+	</ROW>
+
+	<ROW>
+		<Vendor_Num>V1444</Vendor_Num>
+		<Vendor_Name>CUMMINS</Vendor_Name>
+		<Vendor_Address>500 JACKSON STREET</Vendor_Address>
+		<Vendor_Phone>2746853534</Vendor_Phone>
+		<Vendor_Email>PPNB@CUMM.com</Vendor_Email>
+		<Vendor_City>COLUMBUS</Vendor_City>
+		<Vendor_State>IN</Vendor_State>
+		<Vendor_ZIP>47201</Vendor_ZIP>
+	</ROW>
+
+	<ROW>
+		<Vendor_Num>V1445</Vendor_Num>
+		<Vendor_Name>WALLYMART</Vendor_Name>
+		<Vendor_Address>702 SW 8TH STREET</Vendor_Address>
+		<Vendor_Phone>9122776520</Vendor_Phone>
+		<Vendor_Email>GUPD@WALM.com</Vendor_Email>
+		<Vendor_City>BENTONVILLE</Vendor_City>
+		<Vendor_State>AR</Vendor_State>
+		<Vendor_ZIP>72716</Vendor_ZIP>
+	</ROW>
+
+	<ROW>
+		<Vendor_Num>V1446</Vendor_Num>
+		<Vendor_Name>US FINE HOLDING</Vendor_Name>
+		<Vendor_Address>9399 WEST HIGGINS ROAD</Vendor_Address>
+		<Vendor_Phone>2753971873</Vendor_Phone>
+		<Vendor_Email>TDSD@USFH.com</Vendor_Email>
+		<Vendor_City>ROSEMONT</Vendor_City>
+		<Vendor_State>IL</Vendor_State>
+		<Vendor_ZIP>60018</Vendor_ZIP>
+	</ROW>
+
+	<ROW>
+		<Vendor_Num>V1448</Vendor_Num>
+		<Vendor_Name>SOUTHWEST GROUP</Vendor_Name>
+		<Vendor_Address>2702 LOVE FIELD DRIVE</Vendor_Address>
+		<Vendor_Phone>7932062925</Vendor_Phone>
+		<Vendor_Email>SBIR@SOUT.com</Vendor_Email>
+		<Vendor_City>DALLAS</Vendor_City>
+		<Vendor_State>TX</Vendor_State>
+		<Vendor_ZIP>75235</Vendor_ZIP>
+	</ROW>
+
+	<ROW>
+		<Vendor_Num>V1450</Vendor_Num>
+		<Vendor_Name>ENERGY OUTFITTERS</Vendor_Name>
+		<Vendor_Address>8111 WESTCHESTER DRIVE</Vendor_Address>
+		<Vendor_Phone>8562981897</Vendor_Phone>
+		<Vendor_Email>OZBB@ENER.com</Vendor_Email>
+		<Vendor_City>DALLAS</Vendor_City>
+		<Vendor_State>TX</Vendor_State>
+		<Vendor_ZIP>75225</Vendor_ZIP>
+	</ROW>
+</DATA>

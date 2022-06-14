@@ -1,0 +1,182 @@
+<DATA>
+
+	<ROW>
+		<Item_ID>121312-0026</Item_ID>
+		<Item_Description>Slacks</Item_Description>
+		<Item_Price>13</Item_Price>
+		<Item_Weight>0</Item_Weight>
+		<Item_AnnualSales>60</Item_AnnualSales>
+		<Item_StockLocation>J6699</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>121332-0036</Item_ID>
+		<Item_Description>Slacks</Item_Description>
+		<Item_Price>10</Item_Price>
+		<Item_Weight>0</Item_Weight>
+		<Item_AnnualSales>2704</Item_AnnualSales>
+		<Item_StockLocation>J6699</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>14</Item_ID>
+		<Item_Description>Shirts</Item_Description>
+		<Item_Price>6</Item_Price>
+		<Item_Weight>0</Item_Weight>
+		<Item_AnnualSales>96</Item_AnnualSales>
+		<Item_StockLocation>A9309</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>143969</Item_ID>
+		<Item_Description>Neckwear</Item_Description>
+		<Item_Price>1</Item_Price>
+		<Item_Weight>0</Item_Weight>
+		<Item_AnnualSales>15</Item_AnnualSales>
+		<Item_StockLocation>X3359</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>143978</Item_ID>
+		<Item_Description>Neckwear</Item_Description>
+		<Item_Price>1</Item_Price>
+		<Item_Weight>0</Item_Weight>
+		<Item_AnnualSales>56</Item_AnnualSales>
+		<Item_StockLocation>E4347</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>18</Item_ID>
+		<Item_Description>Shirts</Item_Description>
+		<Item_Price>7</Item_Price>
+		<Item_Weight>0</Item_Weight>
+		<Item_AnnualSales>140</Item_AnnualSales>
+		<Item_StockLocation>A9309</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>25</Item_ID>
+		<Item_Description>Shirts</Item_Description>
+		<Item_Price>14</Item_Price>
+		<Item_Weight>0</Item_Weight>
+		<Item_AnnualSales>1016</Item_AnnualSales>
+		<Item_StockLocation>A9309</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>38</Item_ID>
+		<Item_Description>Shirts</Item_Description>
+		<Item_Price>15</Item_Price>
+		<Item_Weight>0</Item_Weight>
+		<Item_AnnualSales>52</Item_AnnualSales>
+		<Item_StockLocation>A9309</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>699933</Item_ID>
+		<Item_Description>Slacks</Item_Description>
+		<Item_Price>12</Item_Price>
+		<Item_Weight>0</Item_Weight>
+		<Item_AnnualSales>506</Item_AnnualSales>
+		<Item_StockLocation>L3234</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>71</Item_ID>
+		<Item_Description>Shirts</Item_Description>
+		<Item_Price>15</Item_Price>
+		<Item_Weight>0</Item_Weight>
+		<Item_AnnualSales>6672</Item_AnnualSales>
+		<Item_StockLocation>A9309</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>841188</Item_ID>
+		<Item_Description>Slacks</Item_Description>
+		<Item_Price>15</Item_Price>
+		<Item_Weight>0</Item_Weight>
+		<Item_AnnualSales>85</Item_AnnualSales>
+		<Item_StockLocation>L3234</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>842722</Item_ID>
+		<Item_Description>Slacks</Item_Description>
+		<Item_Price>14</Item_Price>
+		<Item_Weight>0</Item_Weight>
+		<Item_AnnualSales>131</Item_AnnualSales>
+		<Item_StockLocation>L3234</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>PL530-JD</Item_ID>
+		<Item_Description>Footwear</Item_Description>
+		<Item_Price>4</Item_Price>
+		<Item_Weight>4</Item_Weight>
+		<Item_AnnualSales>748</Item_AnnualSales>
+		<Item_StockLocation>A1976</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>PL538-JD</Item_ID>
+		<Item_Description>Footwear</Item_Description>
+		<Item_Price>2</Item_Price>
+		<Item_Weight>4</Item_Weight>
+		<Item_AnnualSales>16</Item_AnnualSales>
+		<Item_StockLocation>A1976</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>PL638-JD</Item_ID>
+		<Item_Description>Footwear</Item_Description>
+		<Item_Price>6</Item_Price>
+		<Item_Weight>4</Item_Weight>
+		<Item_AnnualSales>306</Item_AnnualSales>
+		<Item_StockLocation>A1976</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>PP24006</Item_ID>
+		<Item_Description>Neckwear</Item_Description>
+		<Item_Price>3</Item_Price>
+		<Item_Weight>0</Item_Weight>
+		<Item_AnnualSales>2</Item_AnnualSales>
+		<Item_StockLocation>E4347</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>PP24007</Item_ID>
+		<Item_Description>Neckwear</Item_Description>
+		<Item_Price>13</Item_Price>
+		<Item_Weight>0</Item_Weight>
+		<Item_AnnualSales>24</Item_AnnualSales>
+		<Item_StockLocation>E4347</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>TH3H390</Item_ID>
+		<Item_Description>Outerwear</Item_Description>
+		<Item_Price>7</Item_Price>
+		<Item_Weight>4</Item_Weight>
+		<Item_AnnualSales>3</Item_AnnualSales>
+		<Item_StockLocation>D9463</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>TH4H580</Item_ID>
+		<Item_Description>Outerwear</Item_Description>
+		<Item_Price>7</Item_Price>
+		<Item_Weight>4</Item_Weight>
+		<Item_AnnualSales>1</Item_AnnualSales>
+		<Item_StockLocation>D9463</Item_StockLocation>
+	</ROW>
+
+	<ROW>
+		<Item_ID>TH4H690</Item_ID>
+		<Item_Description>Outerwear</Item_Description>
+		<Item_Price>14</Item_Price>
+		<Item_Weight>4</Item_Weight>
+		<Item_AnnualSales>13</Item_AnnualSales>
+		<Item_StockLocation>D9463</Item_StockLocation>
+	</ROW>
+</DATA>
